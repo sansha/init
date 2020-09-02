@@ -1,9 +1,13 @@
 # Getting Started
+1. add Bitwarden
+2. add Telegram
 
+## Coding
+1. Android Studio
+2. VSCode
+3. IntelliJ IDEA
 ## Programs
-- Firefox
 - Libreoffice
-- IntelliJ IDEA
 ??
 
 ## Accounts
@@ -14,6 +18,4 @@ Postausgang: postout.lrz.de, Port 587
 ggf. additional Exchange config
 more info: https://doku.lrz.de/display/PUBLIC/Thunderbird
 
-
-    
 - Posteo Mail
