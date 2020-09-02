@@ -3,6 +3,8 @@
 - install flatpak (https://flatpak.org/setup/Ubuntu/)
 - add Telegram via flatpak
 
+https://www.omgubuntu.co.uk/2018/11/connect-android-ubuntu-gsconnect ?
+
 ## Coding
 1. Android Studio via flatpak
 2. VSCode
