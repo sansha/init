@@ -1,9 +1,10 @@
 # Getting Started
-1. add Bitwarden
-2. add Telegram
+- add Bitwarden to Firefox
+- install flatpak (https://flatpak.org/setup/Ubuntu/)
+- add Telegram via flatpak
 
 ## Coding
-1. Android Studio
+1. Android Studio via flatpak
 2. VSCode
 3. IntelliJ IDEA
 ## Programs
