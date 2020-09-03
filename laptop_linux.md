@@ -6,10 +6,10 @@
 https://www.omgubuntu.co.uk/2018/11/connect-android-ubuntu-gsconnect ?
 
 ## SSH Key & adding it to github
-all the steps can be found here: https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh
+[all the steps can be found here](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
 
-generate SSH key: https://docs.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
-add SSH key to github: https://docs.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account
+[generate SSH key](https://docs.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+[add SSH key to github](https://docs.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account)
 
 ## Coding
 1. Android Studio via flatpak
