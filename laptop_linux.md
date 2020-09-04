@@ -2,8 +2,10 @@
 - add Bitwarden to Firefox
 - install flatpak (https://flatpak.org/setup/Ubuntu/)
 - add Telegram via flatpak
-
+- [AMD drivers](https://www.amd.com/en/support/kb/release-notes/rn-amdgpu-unified-linux-20-20)
 https://www.omgubuntu.co.uk/2018/11/connect-android-ubuntu-gsconnect ?
+
+
 
 ## SSH Key & adding it to github
 [all the steps can be found here](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
